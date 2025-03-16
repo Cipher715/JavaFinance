@@ -6,7 +6,7 @@ Just input your income and expense, it will automatically save all the records a
 On your terminal, run "javac BudgetApp.java".
 After you confirm that "BudgetApp.class" is generated, run "java BudgetApp" to launch the app.
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/qDRmjsHhKGI)
 
 # Development Environment
 
