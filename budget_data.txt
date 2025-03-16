@@ -1,0 +1,6 @@
+Income: Salary + $3000
+Expence: Food - $500
+Income: Bonus + $3000
+Expence: Transportation - $400
+Expence: Entertainment - $1000
+Income: Other + $200
